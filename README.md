@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbkly
-- 👀 I’m interested in healthcare, surfing, nature, travel, food, good books
-- 🌱 I’m currently learning coding, product management, and the Salesforce platform
+- 👀 I’m interested in Salesforce, coding, surfing, travel, food, good books
+- 🌱 I’m currently learning coding, product management, and the Salesforce ecosystem
 - 💞️ I’m looking to collaborate on Salesforce and front-end development projects 
 - 📫 How to reach me: mary@bkly.org
 - 💻 Personal portfolio website: https://mary-buckley-portfolio.netlify.app/ 
